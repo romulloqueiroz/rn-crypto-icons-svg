@@ -1,26 +1,42 @@
 # rn-crypto-icons-svg
 
-Crypto Icon SVG for React Native
+Light-weight Crypto Icons in SVG for React Native
+---
+<img src="coins.png" />
 
 ## Installation
 
 ```sh
-npm install rn-crypto-icons-svg
+yarn add rn-crypto-icons-svg
 ```
 
 ## Usage
 
+Just import it and use it like any other React Native component.
+Shapes can be'circle', 'square', 'octagonal', and 'hexagonal'.
+
 ```js
-import { multiply } from 'rn-crypto-icons-svg';
+import Crypto from 'rn-crypto-icons-svg'
 
 // ...
 
-const result = await multiply(3, 7);
+export default function App() {
+  return (
+    <View style={styles.container}>
+      <Crypto name='UST' size={200} shape='octagonal' />
+    </View>
+  )
+}
+
+const styles = StyleSheet.create({
+  container: {
+    flex: 1,
+    backgroundColor: '#fff',
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+})
 ```
-
-## Contributing
-
-See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
 ## License
 
@@ -28,4 +44,3 @@ MIT
 
 ---
 
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
