@@ -142,6 +142,20 @@ import {
   eng,
   enj,
   entrp,
+  eon,
+  eop,
+  eos,
+  eqli,
+  equa,
+  etc,
+  eth,
+  ethos,
+  etn,
+  etp,
+  eur,
+  evx,
+  exmo,
+  exp,
 } from './assets/index';
 
 export const assets = {
@@ -288,6 +302,20 @@ export const assets = {
   'eng': eng,
   'enj': enj,
   'entrp': entrp,
+  'eon': eon,
+  'eop': eop,
+  'eos': eos,
+  'eqli': eqli,
+  'equa': equa,
+  'etc': etc,
+  'eth': eth,
+  'ethos': ethos,
+  'etn': etn,
+  'etp': etp,
+  'eur': eur,
+  'evx': evx,
+  'exmo': exmo,
+  'exp': exp,
 } as const;
 
 interface GradientStop {

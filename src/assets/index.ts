@@ -141,6 +141,20 @@ import emc2 from './emc2.json';
 import eng from './eng.json';
 import enj from './enj.json';
 import entrp from './entrp.json';
+import eon from './eon.json';
+import eop from './eop.json';
+import eos from './eos.json';
+import eqli from './eqli.json';
+import equa from './equa.json';
+import etc from './etc.json';
+import eth from './eth.json';
+import ethos from './ethos.json';
+import etn from './etn.json';
+import etp from './etp.json';
+import eur from './eur.json';
+import evx from './evx.json';
+import exmo from './exmo.json';
+import exp from './exp.json';
 
 export {
   UST,
@@ -286,4 +300,18 @@ export {
   eng,
   enj,
   entrp,
+  eon,
+  eop,
+  eos,
+  eqli,
+  equa,
+  etc,
+  eth,
+  ethos,
+  etn,
+  etp,
+  eur,
+  evx,
+  exmo,
+  exp,
 };

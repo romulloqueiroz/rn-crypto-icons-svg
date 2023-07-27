@@ -1,6 +1,6 @@
 {
   "name": "rn-crypto-icons-svg",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Crypto Icon SVG for React Native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
