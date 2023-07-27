@@ -125,6 +125,22 @@ import drgn from './drgn.json';
 import drop from './drop.json';
 import dta from './dta.json';
 import dth from './dth.json';
+import dtr from './dtr.json';
+import ebst from './ebst.json';
+import eca from './eca.json';
+import edg from './edg.json';
+import edo from './edo.json';
+import edoge from './edoge.json';
+import ela from './ela.json';
+import elec from './elec.json';
+import elf from './elf.json';
+import elix from './elix.json';
+import ella from './ella.json';
+import emc from './emc.json';
+import emc2 from './emc2.json';
+import eng from './eng.json';
+import enj from './enj.json';
+import entrp from './entrp.json';
 
 export {
   UST,
@@ -254,4 +270,20 @@ export {
   drop,
   dta,
   dth,
+  dtr,
+  ebst,
+  eca,
+  edg,
+  edo,
+  edoge,
+  ela,
+  elec,
+  elf,
+  elix,
+  ella,
+  emc,
+  emc2,
+  eng,
+  enj,
+  entrp,
 };
