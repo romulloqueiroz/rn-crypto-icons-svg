@@ -231,6 +231,58 @@ import lsk from './lsk.json';
 import ltc from './ltc.json';
 import lun from './lun.json';
 import luna from './luna.json';
+import maid from './maid.json';
+import mana from './mana.json';
+import matic from './matic.json';
+import mcap from './mcap.json';
+import mco from './mco.json';
+import mda from './mda.json';
+import mds from './mds.json';
+import med from './med.json';
+import meetone from './meetone.json';
+import mft from './mft.json';
+import miota from './miota.json';
+import mir from './mir.json';
+import mith from './mith.json';
+import mkr from './mkr.json';
+import mln from './mln.json';
+import mnx from './mnx.json';
+import mnz from './mnz.json';
+import moac from './moac.json';
+import mod from './mod.json';
+import mona from './mona.json';
+import msr from './msr.json';
+import mth from './mth.json';
+import mtl from './mtl.json';
+import music from './music.json';
+import mzc from './mzc.json';
+import nano from './nano.json';
+import nas from './nas.json';
+import nav from './nav.json';
+import ncash from './ncash.json';
+import ndz from './ndz.json';
+import nebl from './nebl.json';
+import neo from './neo.json';
+import neos from './neos.json';
+import neu from './neu.json';
+import nexo from './nexo.json';
+import ngc from './ngc.json';
+import nio from './nio.json';
+import nlc2 from './nlc2.json';
+import nlg from './nlg.json';
+import nmc from './nmc.json';
+import nmr from './nmr.json';
+import npxs from './npxs.json';
+import nuls from './nuls.json';
+import nxs from './nxs.json';
+import nxt from './nxt.json';
+import oax from './oax.json';
+import ocean from './ocean.json';
+import omg from './omg.json';
+import omni from './omni.json';
+import ong from './ong.json';
+import ont from './ont.json';
+import oot from './oot.json';
 
 export {
   UST,
@@ -466,4 +518,56 @@ export {
   ltc,
   lun,
   luna,
+  maid,
+  mana,
+  matic,
+  mcap,
+  mco,
+  mda,
+  mds,
+  med,
+  meetone,
+  mft,
+  miota,
+  mir,
+  mith,
+  mkr,
+  mln,
+  mnx,
+  mnz,
+  moac,
+  mod,
+  mona,
+  msr,
+  mth,
+  mtl,
+  music,
+  mzc,
+  nano,
+  nas,
+  nav,
+  ncash,
+  ndz,
+  nebl,
+  neo,
+  neos,
+  neu,
+  nexo,
+  ngc,
+  nio,
+  nlc2,
+  nlg,
+  nmc,
+  nmr,
+  npxs,
+  nuls,
+  nxs,
+  nxt,
+  oax,
+  ocean,
+  omg,
+  omni,
+  ong,
+  ont,
+  oot,
 };
