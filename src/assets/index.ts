@@ -155,6 +155,82 @@ import eur from './eur.json';
 import evx from './evx.json';
 import exmo from './exmo.json';
 import exp from './exp.json';
+import fair from './fair.json';
+import fct from './fct.json';
+import fil from './fil.json';
+import fjc from './fjc.json';
+import fldc from './fldc.json';
+import flo from './flo.json';
+import flux from './flux.json';
+import fsn from './fsn.json';
+import ftc from './ftc.json';
+import fuel from './fuel.json';
+import fun from './fun.json';
+import game from './game.json';
+import gas from './gas.json';
+import gbp from './gbp.json';
+import gbx from './gbx.json';
+import gbyte from './gbyte.json';
+import generic from './generic.json';
+import gin from './gin.json';
+import glxt from './glxt.json';
+import gmr from './gmr.json';
+import gno from './gno.json';
+import gnt from './gnt.json';
+import gold from './gold.json';
+import grc from './grc.json';
+import grin from './grin.json';
+import grs from './grs.json';
+import gsc from './gsc.json';
+import gto from './gto.json';
+import gup from './gup.json';
+import gusd from './gusd.json';
+import gvt from './gvt.json';
+import gxs from './gxs.json';
+import gzr from './gzr.json';
+import hight from './hight.json';
+import hodl from './hodl.json';
+import hot from './hot.json';
+import hpb from './hpb.json';
+import hsr from './hsr.json';
+import ht from './ht.json';
+import html from './html.json';
+import htr from './htr.json';
+import huc from './huc.json';
+import hush from './hush.json';
+import icn from './icn.json';
+import icx from './icx.json';
+import ignis from './ignis.json';
+import ilk from './ilk.json';
+import ink from './ink.json';
+import ins from './ins.json';
+import ion from './ion.json';
+import iop from './iop.json';
+import iost from './iost.json';
+import iotx from './iotx.json';
+import iq from './iq.json';
+import itc from './itc.json';
+import jnt from './jnt.json';
+import jpy from './jpy.json';
+import kcs from './kcs.json';
+import kda from './kda.json';
+import kin from './kin.json';
+import klown from './klown.json';
+import kmd from './kmd.json';
+import knc from './knc.json';
+import krb from './krb.json';
+import lbc from './lbc.json';
+import lend from './lend.json';
+import leo from './leo.json';
+import ikk from './ikk.json';
+import link from './link.json';
+import loom from './loom.json';
+import lpt from './lpt.json';
+import lrc from './lrc.json';
+import lsk from './lsk.json';
+import ltc from './ltc.json';
+import lun from './lun.json';
+import luna from './luna.json';
 
 export {
   UST,
@@ -314,4 +390,80 @@ export {
   evx,
   exmo,
   exp,
+  fair,
+  fct,
+  fil,
+  fjc,
+  fldc,
+  flo,
+  flux,
+  fsn,
+  ftc,
+  fuel,
+  fun,
+  game,
+  gas,
+  gbp,
+  gbx,
+  gbyte,
+  generic,
+  gin,
+  glxt,
+  gmr,
+  gno,
+  gnt,
+  gold,
+  grc,
+  grin,
+  grs,
+  gsc,
+  gto,
+  gup,
+  gusd,
+  gvt,
+  gxs,
+  gzr,
+  hight,
+  hodl,
+  hot,
+  hpb,
+  hsr,
+  ht,
+  html,
+  htr,
+  huc,
+  hush,
+  icn,
+  icx,
+  ignis,
+  ilk,
+  ink,
+  ins,
+  ion,
+  iop,
+  iost,
+  iotx,
+  iq,
+  itc,
+  jnt,
+  jpy,
+  kcs,
+  kda,
+  kin,
+  klown,
+  kmd,
+  knc,
+  krb,
+  lbc,
+  lend,
+  leo,
+  ikk,
+  link,
+  loom,
+  lpt,
+  lrc,
+  lsk,
+  ltc,
+  lun,
+  luna,
 };
