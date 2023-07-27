@@ -80,13 +80,51 @@ import cc from './cc.json';
 import cdn from './cdn.json';
 import cdt from './cdt.json';
 import cenz from './cenz.json';
+import chain from './chain.json';
 import chat from './chat.json';
+import cix from './cix.json';
 import chips from './chips.json';
 import clam from './clam.json';
 import cloak from './cloak.json';
 import cmm from './cmm.json';
 import cmt from './cmt.json';
 import cnd from './cnd.json';
+import cnx from './cnx.json';
+import cny from './cny.json';
+import cob from './cob.json';
+import colx from './colx.json';
+import comp from './comp.json';
+import coqui from './coqui.json';
+import cred from './cred.json';
+import crpt from './crpt.json';
+import crw from './crw.json';
+import cs from './cs.json';
+import ctr from './ctr.json';
+import ctxc from './ctxc.json';
+import cvc from './cvc.json';
+import d from './d.json';
+import dai from './dai.json';
+import dash from './dash.json';
+import dat from './dat.json';
+import data from './data.json';
+import dbc from './dbc.json';
+import dcn from './dcn.json';
+import dcr from './dcr.json';
+import deez from './deez.json';
+import dent from './dent.json';
+import dew from './dew.json';
+import dgb from './dgb.json';
+import dgd from './dgd.json';
+import dlt from './dlt.json';
+import dna from './dna.json';
+import dnt from './dnt.json';
+import dock from './dock.json';
+import doge from './doge.json';
+import dot from './dot.json';
+import drgn from './drgn.json';
+import drop from './drop.json';
+import dta from './dta.json';
+import dth from './dth.json';
 
 export {
   UST,
@@ -171,11 +209,49 @@ export {
   cdn,
   cdt,
   cenz,
+  chain,
   chat,
   chips,
+  cix,
   clam,
   cloak,
   cmm,
   cmt,
   cnd,
+  cnx,
+  cny,
+  cob,
+  colx,
+  comp,
+  coqui,
+  cred,
+  crpt,
+  crw,
+  cs,
+  ctr,
+  ctxc,
+  cvc,
+  d,
+  dai,
+  dash,
+  dat,
+  data,
+  dbc,
+  dcn,
+  dcr,
+  deez,
+  dent,
+  dew,
+  dgb,
+  dgd,
+  dlt,
+  dna,
+  dnt,
+  dock,
+  doge,
+  dot,
+  drgn,
+  drop,
+  dta,
+  dth,
 };
