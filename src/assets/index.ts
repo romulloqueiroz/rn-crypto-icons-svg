@@ -321,6 +321,141 @@ import r from './r.json';
 import rads from './rads.json';
 import rap from './rap.json';
 import rcn from './rcn.json';
+import rdd from './rdd.json';
+import rdn from './rdn.json';
+import ren from './ren.json';
+import rep from './rep.json';
+import repv2 from './repv2.json';
+import req from './req.json';
+import rhoc from './rhoc.json';
+import ric from './ric.json';
+import rise from './rise.json';
+import rlc from './rlc.json';
+import rpx from './rpx.json';
+import rub from './rub.json';
+import rvn from './rvn.json';
+import ryo from './ryo.json';
+import safe from './safe.json';
+import sai from './sai.json';
+import salt from './salt.json';
+import san from './san.json';
+import sbd from './sbd.json';
+import sberbank from './sberbank.json';
+import sc from './sc.json';
+import sec from './sec.json';
+import shift from './shift.json';
+import sib from './sib.json';
+import sin from './sin.json';
+import sky from './sky.json';
+import slr from './slr.json';
+import sls from './sls.json';
+import smart from './smart.json';
+import sngls from './sngls.json';
+import snm from './snm.json';
+import snt from './snt.json';
+import snx from './snx.json';
+import soc from './soc.json';
+import spank from './spank.json';
+import sphtx from './sphtx.json';
+import srn from './srn.json';
+import stak from './stak.json';
+import start from './start.json';
+import steem from './steem.json';
+import storj from './storj.json';
+import storm from './storm.json';
+import stq from './stq.json';
+import strat from './strat.json';
+import stx from './stx.json';
+import sub from './sub.json';
+import sumo from './sumo.json';
+import sushi from './sushi.json';
+import sys from './sys.json';
+import taas from './taas.json';
+import tau from './tau.json';
+import tbx from './tbx.json';
+import tel from './tel.json';
+import ten from './ten.json';
+import tern from './tern.json';
+import tgch from './tgch.json';
+import theta from './theta.json';
+import tht from './tht.json';
+import tix from './tix.json';
+import tkn from './tkn.json';
+import tks from './tks.json';
+import tnb from './tnb.json';
+import tnc from './tnc.json';
+import tnt from './tnt.json';
+import tomo from './tomo.json';
+import tpay from './tpay.json';
+import trig from './trig.json';
+import trtl from './trtl.json';
+import trx from './trx.json';
+import tusd from './tusd.json';
+import tzc from './tzc.json';
+import ubq from './ubq.json';
+import uma from './uma.json';
+import uni from './uni.json';
+import unity from './unity.json';
+import usd from './usd.json';
+import usdc from './usdc.json';
+import usdt from './usdt.json';
+import utk from './utk.json';
+import veri from './veri.json';
+import vet from './vet.json';
+import via from './via.json';
+import vib from './vib.json';
+import vibe from './vibe.json';
+import vivo from './vivo.json';
+import vrc from './vrc.json';
+import vrsc from './vrsc.json';
+import vtc from './vtc.json';
+import vtho from './vtho.json';
+import wabi from './wabi.json';
+import wan from './wan.json';
+import waves from './waves.json';
+import wax from './wax.json';
+import wbtc from './wbtc.json';
+import wgr from './wgr.json';
+import wicc from './wicc.json';
+import wings from './wings.json';
+import wpr from './wpr.json';
+import wtc from './wtc.json';
+import x from './x.json';
+import xas from './xas.json';
+import xbc from './xbc.json';
+import xbp from './xbp.json';
+import xby from './xby.json';
+import xcm from './xcm.json';
+import xcp from './xcp.json';
+import xdn from './xdn.json';
+import xem from './xem.json';
+import xin from './xin.json';
+import xlm from './xlm.json';
+import xmc from './xmc.json';
+import xmcc from './xmcc.json';
+import xmo from './xmo.json';
+import xmr from './xmr.json';
+import xmy from './xmy.json';
+import xp from './xp.json';
+import xpa from './xpa.json';
+import xpm from './xpm.json';
+import xrp from './xrp.json';
+import xsg from './xsg.json';
+import xtz from './xtz.json';
+import xuc from './xuc.json';
+import xvc from './xvc.json';
+import xvg from './xvg.json';
+import xzc from './xzc.json';
+import yfi from './yfi.json';
+import yoyow from './yoyow.json';
+import zcl from './zcl.json';
+import zec from './zec.json';
+import zel from './zel.json';
+import zen from './zen.json';
+import zest from './zest.json';
+import zil from './zil.json';
+import zilla from './zilla.json';
+import zrx from './zrx.json';
 
 export {
   UST,
@@ -646,4 +781,139 @@ export {
   rads,
   rap,
   rcn,
+  rdd,
+  rdn,
+  ren,
+  rep,
+  repv2,
+  req,
+  rhoc,
+  ric,
+  rise,
+  rlc,
+  rpx,
+  rub,
+  rvn,
+  ryo,
+  safe,
+  sai,
+  salt,
+  san,
+  sbd,
+  sberbank,
+  sc,
+  sec,
+  shift,
+  sib,
+  sin,
+  sky,
+  slr,
+  sls,
+  smart,
+  sngls,
+  snm,
+  snt,
+  snx,
+  soc,
+  spank,
+  sphtx,
+  srn,
+  stak,
+  start,
+  steem,
+  storj,
+  storm,
+  stq,
+  strat,
+  stx,
+  sub,
+  sumo,
+  sushi,
+  sys,
+  taas,
+  tau,
+  tbx,
+  tel,
+  ten,
+  tern,
+  tgch,
+  theta,
+  tht,
+  tix,
+  tkn,
+  tks,
+  tnb,
+  tnc,
+  tnt,
+  tomo,
+  tpay,
+  trig,
+  trtl,
+  trx,
+  tusd,
+  tzc,
+  ubq,
+  uma,
+  uni,
+  unity,
+  usd,
+  usdc,
+  usdt,
+  utk,
+  veri,
+  vet,
+  via,
+  vib,
+  vibe,
+  vivo,
+  vrc,
+  vrsc,
+  vtc,
+  vtho,
+  wabi,
+  wan,
+  waves,
+  wax,
+  wbtc,
+  wgr,
+  wicc,
+  wings,
+  wpr,
+  wtc,
+  x,
+  xas,
+  xbc,
+  xbp,
+  xby,
+  xcm,
+  xcp,
+  xdn,
+  xem,
+  xin,
+  xlm,
+  xmc,
+  xmcc,
+  xmo,
+  xmr,
+  xmy,
+  xp,
+  xpa,
+  xpm,
+  xrp,
+  xsg,
+  xtz,
+  xuc,
+  xvc,
+  xvg,
+  xzc,
+  yfi,
+  yoyow,
+  zcl,
+  zec,
+  zel,
+  zen,
+  zest,
+  zil,
+  zilla,
+  zrx,
 };
