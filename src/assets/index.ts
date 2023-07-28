@@ -36,6 +36,7 @@ import audr from './audr.json';
 import auto from './auto.json';
 import aywa from './aywa.json';
 import bab from './bab.json';
+import BABYDOGE from './BABYDOGE.json';
 import bal from './bal.json';
 import band from './band.json';
 import bcbc from './bcbc.json';
@@ -75,6 +76,7 @@ import btt from './btt.json';
 import btx from './btx.json';
 import burst from './burst.json';
 import bze from './bze.json';
+import CAKE from './CAKE.json';
 import call from './call.json';
 import cc from './cc.json';
 import cdn from './cdn.json';
@@ -233,7 +235,7 @@ import lun from './lun.json';
 import luna from './luna.json';
 import maid from './maid.json';
 import mana from './mana.json';
-import matic from './matic.json';
+import MATIC from './MATIC.json';
 import mcap from './mcap.json';
 import mco from './mco.json';
 import mda from './mda.json';
@@ -300,6 +302,7 @@ import poa from './poa.json';
 import poe from './poe.json';
 import polis from './polis.json';
 import poly from './poly.json';
+import POLYDOGE from './POLYDOGE.json';
 import pot from './pot.json';
 import powr from './powr.json';
 import ppc from './ppc.json';
@@ -496,6 +499,7 @@ export {
   auto,
   aywa,
   bab,
+  BABYDOGE,
   bal,
   band,
   bcbc,
@@ -535,6 +539,7 @@ export {
   btx,
   burst,
   bze,
+  CAKE,
   call,
   cc,
   cdn,
@@ -693,7 +698,7 @@ export {
   luna,
   maid,
   mana,
-  matic,
+  MATIC,
   mcap,
   mco,
   mda,
@@ -760,6 +765,7 @@ export {
   poe,
   polis,
   poly,
+  POLYDOGE,
   pot,
   powr,
   ppc,

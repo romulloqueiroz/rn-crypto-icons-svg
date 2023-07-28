@@ -15,9 +15,6 @@ yarn add rn-crypto-icons-svg
 Just import it and use it like any other React Native component.
 Shapes can be'circle', 'square', 'octagonal', and 'hexagonal'.
 
-## tokens
-Based on this Figma file: https://www.figma.com/community/file/991275444803411060
-
 ```js
 import Crypto from 'rn-crypto-icons-svg'
 
