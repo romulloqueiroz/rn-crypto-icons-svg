@@ -283,6 +283,44 @@ import omni from './omni.json';
 import ong from './ong.json';
 import ont from './ont.json';
 import oot from './oot.json';
+import ost from './ost.json';
+import ox from './ox.json';
+import oxt from './oxt.json';
+import part from './part.json';
+import pasc from './pasc.json';
+import pasl from './pasl.json';
+import pax from './pax.json';
+import pay from './pay.json';
+import payx from './payx.json';
+import pink from './pink.json';
+import pirl from './pirl.json';
+import pivx from './pivx.json';
+import plr from './plr.json';
+import poa from './poa.json';
+import poe from './poe.json';
+import polis from './polis.json';
+import poly from './poly.json';
+import pot from './pot.json';
+import powr from './powr.json';
+import ppc from './ppc.json';
+import ppp from './ppp.json';
+import ppt from './ppt.json';
+import pre from './pre.json';
+import prl from './prl.json';
+import prq from './prq.json';
+import prqboost from './prqboost.json';
+import pungo from './pungo.json';
+import pura from './pura.json';
+import qash from './qash.json';
+import qiwi from './qiwi.json';
+import qlc from './qlc.json';
+import qlr from './qlr.json';
+import qsp from './qsp.json';
+import qtum from './qtum.json';
+import r from './r.json';
+import rads from './rads.json';
+import rap from './rap.json';
+import rcn from './rcn.json';
 
 export {
   UST,
@@ -570,4 +608,42 @@ export {
   ong,
   ont,
   oot,
+  ost,
+  ox,
+  oxt,
+  part,
+  pasc,
+  pasl,
+  pax,
+  pay,
+  payx,
+  pink,
+  pirl,
+  pivx,
+  plr,
+  poa,
+  poe,
+  polis,
+  poly,
+  pot,
+  powr,
+  ppc,
+  ppp,
+  ppt,
+  pre,
+  prl,
+  prq,
+  prqboost,
+  pungo,
+  pura,
+  qash,
+  qiwi,
+  qlc,
+  qlr,
+  qsp,
+  qtum,
+  r,
+  rads,
+  rap,
+  rcn,
 };
