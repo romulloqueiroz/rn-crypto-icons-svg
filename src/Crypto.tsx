@@ -16,19 +16,21 @@ export interface IconProps {
   name: AssetKey;
   size: number;
   shape?: 'hexagonal' | 'octagonal' | 'square' | 'circular';
+  tilt?: boolean;
 }
 
 const Crypto: React.FC<IconProps> = ({
   name = 'btc',
   size = 24,
   shape = 'circular',
+  tilt = false,
 }) => {
   const { viewBox, paths } = assets[name as AssetKey];
   if (!paths) return null;
 
-  const hexagonPoints = getHexagonPoints(viewBox);
-  const octagonPoints = getOctagonPoints(viewBox);
-  const squarePoints = getSquarePoints(viewBox);
+  const hexagonPoints = getHexagonPoints(viewBox, tilt);
+  const octagonPoints = getOctagonPoints(viewBox, tilt);
+  const squarePoints = getSquarePoints(viewBox, tilt);
 
   let maskId: string | undefined;
   let maskPoints: string = '';
@@ -76,7 +78,10 @@ const Crypto: React.FC<IconProps> = ({
                   <Stop
                     key={stopIdx}
                     stopColor={stop.color}
-                    offset={stop.offset || '0'}
+                    offset={stop.offset !== null ? stop.offset : '0'}
+                    stopOpacity={
+                      stop.stopOpacity !== undefined ? stop.stopOpacity : 1
+                    }
                   />
                 ))}
               </LinearGradient>
@@ -89,7 +94,7 @@ const Crypto: React.FC<IconProps> = ({
           key={idx}
           d={item.path}
           fill={item.gradient ? `url(#gradient${idx})` : item.fill}
-          opacity={item.opacity || 1}
+          opacity={item.opacity !== undefined ? item.opacity : 1}
           fillRule="evenodd"
           clipRule="evenodd"
           mask={maskId ? `url(#${maskId})` : undefined}

@@ -15,6 +15,8 @@ yarn add rn-crypto-icons-svg
 Just import it and use it like any other React Native component.
 Shapes can be'circle', 'square', 'octagonal', and 'hexagonal'.
 
+Optional param tilt can be used to tilt the icon.
+
 ```js
 import Crypto from 'rn-crypto-icons-svg'
 

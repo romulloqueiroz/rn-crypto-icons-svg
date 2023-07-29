@@ -75,6 +75,7 @@ import bts from './bts.json';
 import btt from './btt.json';
 import btx from './btx.json';
 import burst from './burst.json';
+import BUSD from './BUSD.json';
 import bze from './bze.json';
 import CAKE from './CAKE.json';
 import call from './call.json';
@@ -320,6 +321,7 @@ import qlc from './qlc.json';
 import qlr from './qlr.json';
 import qsp from './qsp.json';
 import qtum from './qtum.json';
+import QUICK from './QUICK.json';
 import r from './r.json';
 import rads from './rads.json';
 import rap from './rap.json';
@@ -538,6 +540,7 @@ export {
   btt,
   btx,
   burst,
+  BUSD,
   bze,
   CAKE,
   call,
@@ -783,6 +786,7 @@ export {
   qlr,
   qsp,
   qtum,
+  QUICK,
   r,
   rads,
   rap,
